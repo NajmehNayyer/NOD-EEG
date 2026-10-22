@@ -1,0 +1,125 @@
+event_name,task,subject,session,run,image_id,class_id,class,super_class,stim_is_animate,resp_is_animate,resp_is_right,RT
+stim_on,ImageNet,1,ImageNet01,1,n02865351_847,n02865351,bolo tie,covering,False,False,True,0.1937272391305669
+stim_on,ImageNet,1,ImageNet01,1,n01983481_8224,n01983481,American lobster,invertebrate,True,True,True,1.2247064024286374
+stim_on,ImageNet,1,ImageNet01,1,n02841315_24983,n02841315,binoculars,device,False,True,False,1.0983250009644507
+stim_on,ImageNet,1,ImageNet01,1,n04483307_1497,n04483307,trimaran,conveyance,False,False,True,0.9969950519571285
+stim_on,ImageNet,1,ImageNet01,1,n04125021_15969,n04125021,safe,container,False,False,True,0.9037787855222632
+stim_on,ImageNet,1,ImageNet01,1,n01855032_8276,n01855032,red-breasted merganser,bird,True,True,True,1.07910998103398
+stim_on,ImageNet,1,ImageNet01,1,n04009552_6399,n04009552,projector,device,False,False,True,1.2202369953470225
+stim_on,ImageNet,1,ImageNet01,1,n02091244_4086,n02091244,Ibizan hound,canine,True,True,True,1.2777544661994398
+stim_on,ImageNet,1,ImageNet01,1,n02328150_18962,n02328150,Angora,mammal,True,True,True,1.145026036253057
+stim_on,ImageNet,1,ImageNet01,1,n03697007_17431,n03697007,lumbermill,structure,False,False,True,1.0971598797891602
+stim_on,ImageNet,1,ImageNet01,1,n03345487_2091,n03345487,fire engine,container,False,False,True,1.1909468521666895
+stim_on,ImageNet,1,ImageNet01,1,n09193705_36961,n09193705,alp,geological_formation,False,False,True,1.119557601841734
+stim_on,ImageNet,1,ImageNet01,1,n02641379_3392,n02641379,gar,fish,True,True,True,1.1714879930400457
+stim_on,ImageNet,1,ImageNet01,1,n07693725_990,n07693725,bagel,food,False,False,True,1.0805022243771418
+stim_on,ImageNet,1,ImageNet01,1,n03877845_2504,n03877845,palace,structure,False,False,True,1.1044115986442191
+stim_on,ImageNet,1,ImageNet01,1,n02130308_1943,n02130308,cheetah,feline,True,True,True,1.1015609561422934
+stim_on,ImageNet,1,ImageNet01,1,n02108422_5316,n02108422,bull mastiff,canine,True,True,True,1.1449968433125832
+stim_on,ImageNet,1,ImageNet01,1,n02120505_10346,n02120505,grey fox,canine,True,True,True,1.010688786574519
+stim_on,ImageNet,1,ImageNet01,1,n03868863_3250,n03868863,oxygen mask,device,False,False,True,1.084573552094298
+stim_on,ImageNet,1,ImageNet01,1,n01644373_2754,n01644373,tree frog,amphibian,True,True,True,1.0702844098150308
+stim_on,ImageNet,1,ImageNet01,1,n03721384_11837,n03721384,marimba,device,False,True,False,1.0967678603046809
+stim_on,ImageNet,1,ImageNet01,1,n02444819_6478,n02444819,otter,carnivore,True,True,True,1.1316287222603023
+stim_on,ImageNet,1,ImageNet01,1,n02701002_497,n02701002,ambulance,container,False,False,True,1.0891552397160922
+stim_on,ImageNet,1,ImageNet01,1,n01677366_1392,n01677366,common iguana,reptile,True,True,True,0.9931236189495394
+stim_on,ImageNet,1,ImageNet01,1,n01608432_30797,n01608432,kite,bird,True,True,True,1.1014427951286052
+stim_on,ImageNet,1,ImageNet01,1,n02892767_41634,n02892767,brassiere,covering,False,True,False,1.0907714378836315
+stim_on,ImageNet,1,ImageNet01,1,n07831146_2281,n07831146,carbonara,food,False,False,True,1.0782412504586318
+stim_on,ImageNet,1,ImageNet01,1,n04442312_9621,n04442312,toaster,artifact,False,False,True,1.1157410258979326
+stim_on,ImageNet,1,ImageNet01,1,n02112137_2071,n02112137,chow,canine,True,True,True,1.088154338905042
+stim_on,ImageNet,1,ImageNet01,1,n02167151_6128,n02167151,ground beetle,invertebrate,True,True,True,1.085944016281246
+stim_on,ImageNet,1,ImageNet01,1,n03763968_11532,n03763968,military uniform,covering,False,True,False,1.0793040659673352
+stim_on,ImageNet,1,ImageNet01,1,n02091467_13147,n02091467,Norwegian elkhound,canine,True,True,True,1.1272610092673858
+stim_on,ImageNet,1,ImageNet01,1,n03259280_1344,n03259280,Dutch oven,artifact,False,False,True,1.1327803997955923
+stim_on,ImageNet,1,ImageNet01,1,n01664065_3102,n01664065,loggerhead,reptile,True,True,True,1.1116411821922156
+stim_on,ImageNet,1,ImageNet01,1,n04065272_10353,n04065272,recreational vehicle,container,False,False,True,1.0816625989032218
+stim_on,ImageNet,1,ImageNet01,1,n04127249_2690,n04127249,safety pin,device,False,False,True,1.024484536082582
+stim_on,ImageNet,1,ImageNet01,1,n03733131_3365,n03733131,maypole,device,False,True,False,1.088800754012027
+stim_on,ImageNet,1,ImageNet01,1,n02085620_5147,n02085620,Chihuahua,canine,True,True,True,1.1015850162580136
+stim_on,ImageNet,1,ImageNet01,1,n04228054_17039,n04228054,ski,device,False,True,False,1.0581208985522608
+stim_on,ImageNet,1,ImageNet01,1,n03804744_31694,n03804744,nail,device,False,False,True,1.108276294819461
+stim_on,ImageNet,1,ImageNet01,1,n02396427_4050,n02396427,wild boar,ungulate,True,True,True,1.127785840589695
+stim_on,ImageNet,1,ImageNet01,1,n04005630_29997,n04005630,prison,structure,False,False,True,1.0369871345751562
+stim_on,ImageNet,1,ImageNet01,1,n01824575_4939,n01824575,coucal,bird,True,True,True,1.124914987591637
+stim_on,ImageNet,1,ImageNet01,1,n03891332_5568,n03891332,parking meter,device,False,False,True,1.190690531735072
+stim_on,ImageNet,1,ImageNet01,1,n03530642_6902,n03530642,honeycomb,structure,False,False,True,1.1456262559381685
+stim_on,ImageNet,1,ImageNet01,1,n03942813_1814,n03942813,ping-pong ball,equipment,False,True,False,1.1192063241533106
+stim_on,ImageNet,1,ImageNet01,1,n04461696_10084,n04461696,tow truck,container,False,False,True,1.0568178026892383
+stim_on,ImageNet,1,ImageNet01,1,n02165105_130,n02165105,tiger beetle,invertebrate,True,True,True,1.1279443165517478
+stim_on,ImageNet,1,ImageNet01,1,n02090622_10607,n02090622,borzoi,canine,True,True,True,1.1217791525191387
+stim_on,ImageNet,1,ImageNet01,1,n13133613_91095,n13133613,ear,fruit,False,False,True,1.1401479280070816
+stim_on,ImageNet,1,ImageNet01,1,n02280649_5256,n02280649,cabbage butterfly,invertebrate,True,True,True,1.1059559372670265
+stim_on,ImageNet,1,ImageNet01,1,n04153751_2858,n04153751,screw,device,False,False,True,1.103037605640111
+stim_on,ImageNet,1,ImageNet01,1,n04044716_15676,n04044716,radio telescope,device,False,False,True,1.0235820859961675
+stim_on,ImageNet,1,ImageNet01,1,n03832673_11799,n03832673,notebook,device,False,False,True,1.052313107437385
+stim_on,ImageNet,1,ImageNet01,1,n03127925_6450,n03127925,crate,container,False,False,True,1.0557559495855455
+stim_on,ImageNet,1,ImageNet01,1,n10148035_29327,n10148035,groom,person,True,False,False,1.2570252329660434
+stim_on,ImageNet,1,ImageNet01,1,n02817516_37377,n02817516,bearskin,covering,False,True,False,0.9813858113329844
+stim_on,ImageNet,1,ImageNet01,1,n02704792_15337,n02704792,amphibian,container,False,False,True,1.109137005355933
+stim_on,ImageNet,1,ImageNet01,1,n02168699_349,n02168699,long-horned beetle,invertebrate,True,True,True,1.1184412124757728
+stim_on,ImageNet,1,ImageNet01,1,n03998194_2478,n03998194,prayer rug,furnishing,False,False,True,1.1031887031663246
+stim_on,ImageNet,1,ImageNet01,1,n04229816_9019,n04229816,ski mask,covering,False,False,True,1.1546385336546336
+stim_on,ImageNet,1,ImageNet01,1,n04589890_5979,n04589890,window screen,covering,False,False,True,1.0420756886323943
+stim_on,ImageNet,1,ImageNet01,1,n01820546_2636,n01820546,lorikeet,bird,True,True,True,1.120961429388899
+stim_on,ImageNet,1,ImageNet01,1,n02056570_9140,n02056570,king penguin,bird,True,True,True,1.1589728832868786
+stim_on,ImageNet,1,ImageNet01,1,n04548362_1831,n04548362,wallet,container,False,False,True,1.0547582567901372
+stim_on,ImageNet,1,ImageNet01,1,n01978287_4280,n01978287,Dungeness crab,invertebrate,True,False,False,1.0586527875088905
+stim_on,ImageNet,1,ImageNet01,1,n04081281_34267,n04081281,restaurant,structure,False,False,True,0.6879034079388475
+stim_on,ImageNet,1,ImageNet01,1,n02095570_9125,n02095570,Lakeland terrier,canine,True,True,True,0.9400200565123668
+stim_on,ImageNet,1,ImageNet01,1,n03792782_29935,n03792782,mountain bike,container,False,False,True,1.1866436202840305
+stim_on,ImageNet,1,ImageNet01,1,n02264363_3066,n02264363,lacewing,invertebrate,True,True,True,1.1596998195814194
+stim_on,ImageNet,1,ImageNet01,1,n03661043_4378,n03661043,library,structure,False,False,True,1.142788445498354
+stim_on,ImageNet,1,ImageNet01,1,n01930112_11324,n01930112,nematode,invertebrate,True,False,False,1.143126891125121
+stim_on,ImageNet,1,ImageNet01,1,n01990800_18832,n01990800,isopod,invertebrate,True,True,True,1.0927110040061052
+stim_on,ImageNet,1,ImageNet01,1,n02107908_7961,n02107908,Appenzeller,canine,True,True,True,1.1487210284126377
+stim_on,ImageNet,1,ImageNet01,1,n04275548_10147,n04275548,spider web,device,False,True,False,1.1436985594727958
+stim_on,ImageNet,1,ImageNet01,1,n04317175_1064,n04317175,stethoscope,device,False,True,False,1.1116421445967717
+stim_on,ImageNet,1,ImageNet01,1,n04235860_13315,n04235860,sleeping bag,container,False,True,False,1.10258078424431
+stim_on,ImageNet,1,ImageNet01,1,n04074963_20513,n04074963,remote control,device,False,False,True,1.1182878693384737
+stim_on,ImageNet,1,ImageNet01,1,n03485794_13869,n03485794,handkerchief,artifact,False,False,True,0.9677504625960864
+stim_on,ImageNet,1,ImageNet01,1,n02790996_11760,n02790996,barbell,equipment,False,True,False,1.1831423922553768
+stim_on,ImageNet,1,ImageNet01,1,n02963159_9506,n02963159,cardigan,covering,False,True,False,1.08385912706035
+stim_on,ImageNet,1,ImageNet01,1,n04356056_9715,n04356056,sunglasses,device,False,False,True,1.0831908974487303
+stim_on,ImageNet,1,ImageNet01,1,n04482393_21296,n04482393,tricycle,container,False,True,False,1.165457565655288
+stim_on,ImageNet,1,ImageNet01,1,n04026417_8457,n04026417,purse,container,False,False,True,1.0264427086940486
+stim_on,ImageNet,1,ImageNet01,1,n03197337_3483,n03197337,digital watch,device,False,False,True,0.956413656906534
+stim_on,ImageNet,1,ImageNet01,1,n02672831_2122,n02672831,accordion,device,False,False,True,1.1676990060286698
+stim_on,ImageNet,1,ImageNet01,1,n02088632_9376,n02088632,bluetick,canine,True,True,True,1.1324820543613896
+stim_on,ImageNet,1,ImageNet01,1,n02172182_6600,n02172182,dung beetle,invertebrate,True,True,True,1.185435160875386
+stim_on,ImageNet,1,ImageNet01,1,n01665541_29734,n01665541,leatherback turtle,reptile,True,True,True,1.1138293695094037
+stim_on,ImageNet,1,ImageNet01,1,n01496331_34839,n01496331,electric ray,fish,True,True,True,1.0220329706994562
+stim_on,ImageNet,1,ImageNet01,1,n07734744_1858,n07734744,mushroom,food,False,True,False,1.0392709207517328
+stim_on,ImageNet,1,ImageNet01,1,n04509417_6979,n04509417,unicycle,container,False,True,False,1.1205617106675163
+stim_on,ImageNet,1,ImageNet01,1,n02113186_7253,n02113186,Cardigan,canine,True,True,True,1.1211279253893736
+stim_on,ImageNet,1,ImageNet01,1,n03935335_9506,n03935335,piggy bank,container,False,False,True,1.1023334462556704
+stim_on,ImageNet,1,ImageNet01,1,n04347754_34802,n04347754,submarine,conveyance,False,False,True,1.1017424944666343
+stim_on,ImageNet,1,ImageNet01,1,n04037443_4249,n04037443,racer,container,False,False,True,1.0449080454459363
+stim_on,ImageNet,1,ImageNet01,1,n03970156_10502,n03970156,plunger,implement,False,True,False,1.195673862886906
+stim_on,ImageNet,1,ImageNet01,1,n04200800_27807,n04200800,shoe shop,structure,False,False,True,1.1869477401455697
+stim_on,ImageNet,1,ImageNet01,1,n04366367_1713,n04366367,suspension bridge,structure,False,True,False,1.1959757371378146
+stim_on,ImageNet,1,ImageNet01,1,n02783161_407,n02783161,ballpoint,implement,False,False,True,1.2388460511897392
+stim_on,ImageNet,1,ImageNet01,1,n03792972_5728,n03792972,mountain tent,structure,False,False,True,1.072719293517821
+stim_on,ImageNet,1,ImageNet01,1,n03126707_12031,n03126707,crane,device,False,False,True,1.0714601474660412
+stim_on,ImageNet,1,ImageNet01,1,n07718472_2280,n07718472,cucumber,food,False,True,False,1.5138926315735262
+stim_on,ImageNet,1,ImageNet01,1,n02356798_5021,n02356798,fox squirrel,mammal,True,True,True,1.1363451465290382
+stim_on,ImageNet,1,ImageNet01,1,n01980166_2049,n01980166,fiddler crab,invertebrate,True,True,True,1.3739044627341173
+stim_on,ImageNet,1,ImageNet01,1,n02114548_12508,n02114548,white wolf,canine,True,True,True,1.1233299071727745
+stim_on,ImageNet,1,ImageNet01,1,n02514041_5731,n02514041,barracouta,fish,True,True,True,1.143486509653485
+stim_on,ImageNet,1,ImageNet01,1,n04493381_19462,n04493381,tub,container,False,False,True,1.1456795089939078
+stim_on,ImageNet,1,ImageNet01,1,n04111531_20914,n04111531,rotisserie,artifact,False,True,False,1.1195794163463688
+stim_on,ImageNet,1,ImageNet01,1,n03127747_5882,n03127747,crash helmet,covering,False,False,True,1.102924041893857
+stim_on,ImageNet,1,ImageNet01,1,n04399382_34018,n04399382,teddy,artifact,False,False,True,1.1764155047230815
+stim_on,ImageNet,1,ImageNet01,1,n04252225_19458,n04252225,snowplow,container,False,False,True,1.1081646558827742
+stim_on,ImageNet,1,ImageNet01,1,n02105412_909,n02105412,kelpie,canine,True,True,True,1.1658912893399247
+stim_on,ImageNet,1,ImageNet01,1,n02087394_10347,n02087394,Rhodesian ridgeback,canine,True,True,True,1.0784837764240365
+stim_on,ImageNet,1,ImageNet01,1,n03492542_55271,n03492542,hard disc,device,False,False,True,1.1044780045631342
+stim_on,ImageNet,1,ImageNet01,1,n04367480_27774,n04367480,swab,implement,False,False,True,1.0982182040761472
+stim_on,ImageNet,1,ImageNet01,1,n02106662_63240,n02106662,German shepherd,canine,True,True,True,1.1378541969825164
+stim_on,ImageNet,1,ImageNet01,1,n04254120_1717,n04254120,soap dispenser,container,False,False,True,1.1090895267279848
+stim_on,ImageNet,1,ImageNet01,1,n03908618_15656,n03908618,pencil box,container,False,False,True,1.050425511165031
+stim_on,ImageNet,1,ImageNet01,1,n01729322_4208,n01729322,hognose snake,reptile,True,True,True,1.157055131669949
+stim_on,ImageNet,1,ImageNet01,1,n03063689_10185,n03063689,coffeepot,implement,False,False,True,1.089642537257987
+stim_on,ImageNet,1,ImageNet01,1,n02992529_6429,n02992529,cellular telephone,equipment,False,False,True,1.2215732451395525
+stim_on,ImageNet,1,ImageNet01,1,n07871810_12674,n07871810,meat loaf,food,False,False,True,1.104647387777277
+stim_on,ImageNet,1,ImageNet01,1,n02488702_3916,n02488702,colobus,primate,True,True,True,1.1288217087685553
